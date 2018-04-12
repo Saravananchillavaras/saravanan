@@ -1,0 +1,22 @@
+{
+  "siteTitle": "Saravanan Chillavaras",
+  "siteDescription": "My awesome personal site, i'm Saravanan Chillavaras!",
+  "avatar": "img/avatar.png",
+  "background": "img/background.jpg",
+  "description": "Hey I'm Saravanan Chillavaras, Associate Software Engineer from Singapore!",
+  "resumeFile": "https://drive.google.com/file/d/17WcZmAhvMgulxF2AJNSzNRwr4OTi7LHG/view?usp=sharing",
+  "icons": [
+    {"icon": "page", "link": "https://drive.google.com/file/d/17WcZmAhvMgulxF2AJNSzNRwr4OTi7LHG/view?usp=sharing"},
+    {"icon": "social-github", "link": "/github"},
+    {"icon": "social-twitter", "link": "/twitter"},
+	{"icon": "social-facebook", "link": "/facebook"},
+	{"icon": "social-instagram", "link": "/instagram"},
+	{"icon": "social-linkedin", "link": "/linkedin"},
+    {"icon": "paw", "link": "/corgi"},
+    {"icon": "social-reddit", "link": "https://www.reddit.com/r/corgi"}
+  ],
+  "projects": [
+    {"title":"Dogecoin Ticker", "link":"/dogecointicker"},
+    {"title":"Contact", "link":"Contact"}
+  ]
+}
